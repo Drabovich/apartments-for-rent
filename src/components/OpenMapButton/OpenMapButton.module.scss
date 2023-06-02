@@ -1,0 +1,26 @@
+@import "../../styles/variables/variables.scss";
+
+.button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 167px;
+  padding: 10px 19px;
+  background: #ffffff;
+  border-radius: 19px;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 17px;
+  color: $black-gray;
+  letter-spacing: 0.2px;
+  transition: $transition;
+  &:hover {
+    color: #fec100;
+    transition: $transition;
+  }
+}
+.mark {
+  width: 14px;
+  height: 15px;
+  fill: #ffd54f;
+}
