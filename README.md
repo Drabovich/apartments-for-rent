@@ -1,8 +1,8 @@
-# Проект Sdaem-by (аренда квартир)
+# Project Sdaem-by (apartment rental)
 
 ### [Online demo](https://sdaem-by-one.vercel.app/)
 
-## Используемые технологии
+## Technologies used
 * #### ReactJs /  React Hook Form
 * #### Redux Toolkit
 * #### TypeScript
