@@ -3,7 +3,7 @@
 ### [Online demo](https://sdaem-by-one.vercel.app/)
 
 ## Technologies used
-* #### ReactJs /  React Hook Form
+* #### React /  React Hook Form
 * #### Redux Toolkit
 * #### TypeScript
 * #### Mirage JS is an API mocking library
